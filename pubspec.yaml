@@ -38,7 +38,6 @@ dependencies:
   permission_handler: ^11.3.1
   audio_session: ^0.1.25
   simple_waveform_progressbar: ^0.0.3
-  flutter_audio_waveforms: ^1.2.1+8
 
 dev_dependencies:
   flutter_test:
